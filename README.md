@@ -158,7 +158,7 @@ Reminder: "Submit report" is due in 2 hours. Please prioritize this task.
 # **8. Installation**
 
 ```bash
-git clone https://github.com/rony926/ai-task-manager.git
+git clone [https://github.com/rony926/ai-task-manager.git](https://github.com/rony926/ai-task-manager.git)
 cd ai-task-manager
 ```
 ### Create Python Virtual Environment (optional but recommended)
