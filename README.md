@@ -1,4 +1,4 @@
-# ai-task-manager
+# AI-task-manager
 This capstone project focuses on designing and implementing an AI-powered Concierge Agent that helps users and teams manage tasks, schedules, and reminders efficiently.
 Project Title: Intelligent Concierge Agent for Task and Workflow Management
 # **1. Project Overview**
